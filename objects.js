@@ -1,0 +1,3 @@
+window.alert(1);
+
+
